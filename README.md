@@ -9,6 +9,33 @@ A seamless OS will help in the easy organization of data, SASIS is a SaaS Operat
 
 ## SASIS is made with a sleek UI.
 
+### xxxhdpi
+
+<img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="33%" />
+<img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" width="33%" />
+
+### xxhdpi
+
+<img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" width="33%" />
+<img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" width="33%" />
+
+### xhdpi
+
+<img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xhdpi/ic_launcher.png" width="33%" />
+<img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" width="33%" />
+
+### hdpi
+
+<img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png" width="33%" />
+<img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" width="33%" />
+
+### mdpi
+
+<img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-mdpi/ic_launcher.png" width="33%" />
+<img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" width="33%" />
+
+### Application overview
+
 <img src="https://github.com/alr2303/SASIS/blob/master/images/SASIS2.png" width="33%" />
 
 ## To enable Speed and Mileage calculator GPS access is prompted.
