@@ -8,7 +8,6 @@ A seamless OS will help in the easy organization of data, SASIS is a SaaS Operat
 # SASIS Application
 
 ## SASIS is made with a sleek UI.
-
 ### xxxhdpi
 
 <img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="8%" />  <img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" width="8%" />  
@@ -29,7 +28,8 @@ A seamless OS will help in the easy organization of data, SASIS is a SaaS Operat
 
 <img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-mdpi/ic_launcher.png" width="4%" />  <img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" width="4%" />
 
-### Application overview
+
+## Application overview
 
 <img src="https://github.com/alr2303/SASIS/blob/master/images/SASIS2.png" width="33%" />
 
