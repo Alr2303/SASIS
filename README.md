@@ -9,25 +9,9 @@ A seamless OS will help in the easy organization of data, SASIS is a SaaS Operat
 
 ## SASIS is made with a sleek UI.
 
-### xxxhdpi
+### xxxhdpi   xxhdpi    xhdpi   hdpi    mdpi
 
- <img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="8%" />  <img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" width="8%" /> 
-
-### xxhdpi
-
-<img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" width="7%" />  <img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" width="7%" />
-
-### xhdpi
-
-<img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xhdpi/ic_launcher.png" width="6%" />  <img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" width="6%" />
-
-### hdpi
-
-<img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png" width="5%" />  <img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" width="5%" />
-
-### mdpi
-
-<img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-mdpi/ic_launcher.png" width="4%" />  <img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" width="4%" />
+<img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="8%" />  <img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" width="8%" />  <img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" width="7%" />  <img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" width="7%" />  <img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xhdpi/ic_launcher.png" width="6%" />  <img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" width="6%" />  <img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png" width="5%" />  <img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" width="5%" />  <img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-mdpi/ic_launcher.png" width="4%" />  <img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" width="4%" />
 
 ### Application overview
 
