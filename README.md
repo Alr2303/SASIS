@@ -53,4 +53,15 @@ A seamless OS will help in the easy organization of data, SASIS is a SaaS Operat
 
 <img src="https://github.com/alr2303/SASIS/blob/master/images/SASIS5.png" width="33%" />
 
+## Flow of SASIS
+
+<img src="https://github.com/Alr2303/sasis/blob/master/images/model.png" width="70%" />
+
+## Flow of SASIS
+
+<img src="https://github.com/Alr2303/sasis/blob/master/images/gauge.png" width="70%" />
+
+## Graph of Lean angle performance
+
+<img src="https://github.com/Alr2303/sasis/blob/master/images/sasis_graph%20Plot.gif" width="40%" />
 
