@@ -9,9 +9,9 @@ A seamless OS will help in the easy organization of data, SASIS is a SaaS Operat
 
 ## SASIS is made with a sleek UI.
 
-| Column 1 Header | Column 2 Header | Column 3 Header |
+| Size | icon | icon_round |
 | --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
+| xxxhdpi | <img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="8%" /> | <img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" width="8%" /> |
 | Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
 | Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
 
