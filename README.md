@@ -9,30 +9,11 @@ A seamless OS will help in the easy organization of data, SASIS is a SaaS Operat
 
 ## SASIS is made with a sleek UI.
 
-### xxxhdpi
-
-<img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="10%" />
-<img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" width="10%" />
-
-### xxhdpi
-
-<img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" width="7.5%" />
-<img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" width="7.5%" />
-
-### xhdpi
-
-<img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xhdpi/ic_launcher.png" width="5%" />
-<img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" width="5%" />
-
-### hdpi
-
-<img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png" width="3%" />
-<img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" width="3%" />
-
-### mdpi
-
-<img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-mdpi/ic_launcher.png" width="2%" />
-<img src="https://github.com/Alr2303/sasis/blob/master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" width="2%" />
+| Column 1 Header | Column 2 Header | Column 3 Header |
+| --------------- | --------------- | --------------- |
+| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
+| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
+| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
 
 ### Application overview
 
