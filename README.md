@@ -55,13 +55,13 @@ A seamless OS will help in the easy organization of data, SASIS is a SaaS Operat
 
 ## Flow of SASIS
 
-<img src="https://github.com/Alr2303/sasis/blob/master/images/model.png" width="70%" />
+<img src="https://github.com/Alr2303/sasis/blob/master/images/model.png" width="50%" />
 
-## Flow of SASIS
+## Working of fuel gauge with NodeMCU
 
-<img src="https://github.com/Alr2303/sasis/blob/master/images/gauge.png" width="70%" />
+<img src="https://github.com/Alr2303/sasis/blob/master/images/gauge.png" width="80%" />
 
 ## Graph of Lean angle performance
 
-<img src="https://github.com/Alr2303/sasis/blob/master/images/sasis_graph%20Plot.gif" width="40%" />
+<img src="https://github.com/Alr2303/sasis/blob/master/images/sasis_graph%20Plot.gif" width="30%" />
 
